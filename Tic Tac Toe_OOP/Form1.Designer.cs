@@ -145,6 +145,7 @@ namespace Tic_Tac_Toe_OOP
             // btnReset
             // 
             this.btnReset.BackColor = System.Drawing.Color.Snow;
+            this.btnReset.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnReset.Location = new System.Drawing.Point(196, 340);
             this.btnReset.Name = "btnReset";
             this.btnReset.Size = new System.Drawing.Size(86, 30);
