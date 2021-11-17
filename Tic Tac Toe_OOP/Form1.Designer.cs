@@ -46,13 +46,13 @@ namespace Tic_Tac_Toe_OOP
             this.btnTic1.BackColor = System.Drawing.Color.Snow;
             this.btnTic1.Font = new System.Drawing.Font("Arial", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTic1.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.btnTic1.ImageAlign = System.Drawing.ContentAlignment.TopRight;
+            this.btnTic1.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.btnTic1.Location = new System.Drawing.Point(12, 76);
             this.btnTic1.Name = "btnTic1";
             this.btnTic1.Size = new System.Drawing.Size(86, 82);
             this.btnTic1.TabIndex = 0;
             this.btnTic1.UseVisualStyleBackColor = false;
-            this.btnTic1.Click += new System.EventHandler(this.button1_Click);
+            this.btnTic1.Click += new System.EventHandler(this.btnTic1_Click);
             // 
             // btnTic2
             // 
@@ -144,13 +144,16 @@ namespace Tic_Tac_Toe_OOP
             // 
             // btnReset
             // 
-            this.btnReset.BackColor = System.Drawing.Color.Snow;
+            this.btnReset.BackColor = System.Drawing.Color.RoyalBlue;
             this.btnReset.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnReset.Location = new System.Drawing.Point(196, 340);
+            this.btnReset.ForeColor = System.Drawing.Color.Snow;
+            this.btnReset.Location = new System.Drawing.Point(197, 340);
             this.btnReset.Name = "btnReset";
             this.btnReset.Size = new System.Drawing.Size(86, 30);
             this.btnReset.TabIndex = 9;
+            this.btnReset.Text = "RESET";
             this.btnReset.UseVisualStyleBackColor = false;
+            this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
             // 
             // Form1
             // 
