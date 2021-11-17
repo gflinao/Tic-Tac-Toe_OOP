@@ -39,6 +39,8 @@ namespace Tic_Tac_Toe_OOP
             this.btnTic8 = new System.Windows.Forms.Button();
             this.btnTic9 = new System.Windows.Forms.Button();
             this.btnReset = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // btnTic1
@@ -175,6 +177,16 @@ namespace Tic_Tac_Toe_OOP
             this.btnReset.UseVisualStyleBackColor = false;
             this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::Tic_Tac_Toe_OOP.Properties.Resources.IMG_1442;
+            this.pictureBox1.Location = new System.Drawing.Point(12, 12);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(270, 58);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 10;
+            this.pictureBox1.TabStop = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -183,6 +195,7 @@ namespace Tic_Tac_Toe_OOP
             this.BackgroundImage = global::Tic_Tac_Toe_OOP.Properties.Resources._256039336_676785103291692_8251907035004046222_n;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(295, 382);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnReset);
             this.Controls.Add(this.btnTic9);
             this.Controls.Add(this.btnTic8);
@@ -196,6 +209,7 @@ namespace Tic_Tac_Toe_OOP
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -212,6 +226,7 @@ namespace Tic_Tac_Toe_OOP
         private System.Windows.Forms.Button btnTic8;
         private System.Windows.Forms.Button btnTic9;
         private System.Windows.Forms.Button btnReset;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 
