@@ -60,17 +60,17 @@ namespace Tic_Tac_Toe_OOP
                 if (btnTic2.Text == "O" && btnTic3.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
                 if (btnTic4.Text == "O" && btnTic7.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
                 if (btnTic5.Text == "O" && btnTic9.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
             }
             else
@@ -83,24 +83,24 @@ namespace Tic_Tac_Toe_OOP
                 if (btnTic2.Text == "X" && btnTic3.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
                 if (btnTic4.Text == "X" && btnTic7.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
                 if (btnTic5.Text == "X" && btnTic9.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
 
             }
 
             if (count == 9)
             {
-                MessageBox.Show("Game is draw!!");
+                MessageBox.Show("Draw!");
             }
         
         }
@@ -125,17 +125,17 @@ namespace Tic_Tac_Toe_OOP
                 if (btnTic1.Text == "O" && btnTic2.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
                 if (btnTic5.Text == "O" && btnTic7.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
                 if (btnTic6.Text == "O" && btnTic9.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
             }
             else
@@ -148,24 +148,24 @@ namespace Tic_Tac_Toe_OOP
                 if (btnTic1.Text == "X" && btnTic2.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
                 if (btnTic5.Text == "X" && btnTic7.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
                 if (btnTic6.Text == "X" && btnTic9.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
 
             }
 
             if (count == 9)
             {
-                MessageBox.Show("Game is draw!!");
+                MessageBox.Show("Draw!");
             }
         
         }
@@ -189,12 +189,12 @@ namespace Tic_Tac_Toe_OOP
                 if (btnTic1.Text == "O" && btnTic3.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
                 if (btnTic5.Text == "O" && btnTic7.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
             }
             else
@@ -207,19 +207,19 @@ namespace Tic_Tac_Toe_OOP
                 if (btnTic1.Text == "X" && btnTic3.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
                 if (btnTic5.Text == "X" && btnTic8.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
 
             }
 
             if (count == 9)
             {
-                MessageBox.Show("Game is draw!!");
+                MessageBox.Show("Draw!");
             }
         
         }
@@ -243,12 +243,12 @@ namespace Tic_Tac_Toe_OOP
                 if (btnTic1.Text == "O" && btnTic7.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
                 if (btnTic5.Text == "O" && btnTic6.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
             }
             else
@@ -261,19 +261,19 @@ namespace Tic_Tac_Toe_OOP
                 if (btnTic1.Text == "X" && btnTic7.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
                 if (btnTic5.Text == "X" && btnTic6.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
 
             }
 
             if (count == 9)
             {
-                MessageBox.Show("Game is draw!!");
+                MessageBox.Show("Draw!");
             }
 
         }
@@ -297,22 +297,22 @@ namespace Tic_Tac_Toe_OOP
                 if (btnTic1.Text == "O" && btnTic9.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
                 if (btnTic2.Text == "O" && btnTic8.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
                 if (btnTic3.Text == "O" && btnTic7.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
                 if (btnTic4.Text == "O" && btnTic6.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
             }
             else
@@ -325,29 +325,29 @@ namespace Tic_Tac_Toe_OOP
                 if (btnTic1.Text == "X" && btnTic9.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
                 if (btnTic2.Text == "X" && btnTic8.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
                 if (btnTic3.Text == "X" && btnTic7.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
                 if (btnTic4.Text == "X" && btnTic5.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
 
             }
 
             if (count == 9)
             {
-                MessageBox.Show("Game is draw!!");
+                MessageBox.Show("Draw!");
             }
         }
 
@@ -370,12 +370,12 @@ namespace Tic_Tac_Toe_OOP
                 if (btnTic3.Text == "O" && btnTic9.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
                 if (btnTic4.Text == "O" && btnTic5.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
             }
             else
@@ -388,19 +388,19 @@ namespace Tic_Tac_Toe_OOP
                 if (btnTic3.Text == "X" && btnTic9.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
                 if (btnTic4.Text == "X" && btnTic5.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
 
             }
 
             if (count == 9)
             {
-                MessageBox.Show("Game is draw!!");
+                MessageBox.Show("Draw!");
         }
         }
 
@@ -423,17 +423,17 @@ namespace Tic_Tac_Toe_OOP
                 if (btnTic1.Text == "O" && btnTic4.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
                 if (btnTic3.Text == "O" && btnTic5.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
                 if (btnTic8.Text == "O" && btnTic9.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
             }
             else
@@ -446,24 +446,24 @@ namespace Tic_Tac_Toe_OOP
                 if (btnTic1.Text == "X" && btnTic4.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
                 if (btnTic3.Text == "X" && btnTic5.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
                 if (btnTic8.Text == "X" && btnTic9.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
 
             }
 
             if (count == 9)
             {
-                MessageBox.Show("Game is draw!!");
+                MessageBox.Show("Draw!");
             
         }
         }
@@ -487,12 +487,12 @@ namespace Tic_Tac_Toe_OOP
                 if (btnTic2.Text == "O" && btnTic5.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
                 if (btnTic7.Text == "O" && btnTic9.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
             }
             else
@@ -505,19 +505,19 @@ namespace Tic_Tac_Toe_OOP
                 if (btnTic2.Text == "X" && btnTic5.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
                 if (btnTic7.Text == "X" && btnTic9.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
 
             }
 
             if (count == 9)
             {
-                MessageBox.Show("Game is draw!!");
+                MessageBox.Show("Draw!");
             
         }
         }
@@ -541,17 +541,17 @@ namespace Tic_Tac_Toe_OOP
                 if (btnTic3.Text == "O" && btnTic6.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
                 if (btnTic1.Text == "O" && btnTic5.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
                 if (btnTic7.Text == "O" && btnTic8.Text == "O")
                 {
                     Disabler();
-                    MessageBox.Show("Player O wins the game!");
+                    MessageBox.Show("Player O Wins!");
                 }
             }
             else
@@ -564,24 +564,24 @@ namespace Tic_Tac_Toe_OOP
                 if (btnTic3.Text == "X" && btnTic6.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
                 if (btnTic1.Text == "X" && btnTic5.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
                 if (btnTic7.Text == "X" && btnTic8.Text == "X")
                 {
                     Disabler();
-                    MessageBox.Show("Player x wins the game!");
+                    MessageBox.Show("Player X Wins!");
                 }
 
             }
 
             if (count == 9)
             {
-                MessageBox.Show("Game is draw!!");
+                MessageBox.Show("Draw!");
             }
         
         }
@@ -610,22 +610,8 @@ namespace Tic_Tac_Toe_OOP
             count = 0;
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
 
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void fontDialog1_Apply(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox1_Click_1(object sender, EventArgs e)
+        private void pictureBox1_Click_2(object sender, EventArgs e)
         {
 
         }
