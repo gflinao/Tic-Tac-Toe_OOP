@@ -118,13 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="256039336_676785103291692_8251907035004046222_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\256039336_676785103291692_8251907035004046222_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="853feee2a5f950add764ac04dce75248" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\853feee2a5f950add764ac04dce75248.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="download" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\download.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="256039336_676785103291692_8251907035004046222_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\256039336_676785103291692_8251907035004046222_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="IMG_1441" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IMG_1441.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

@@ -44,6 +44,8 @@ namespace Tic_Tac_Toe_OOP
             // btnTic1
             // 
             this.btnTic1.BackColor = System.Drawing.Color.Snow;
+            this.btnTic1.BackgroundImage = global::Tic_Tac_Toe_OOP.Properties.Resources._256039336_676785103291692_8251907035004046222_n;
+            this.btnTic1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnTic1.Font = new System.Drawing.Font("Arial", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTic1.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.btnTic1.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -57,6 +59,8 @@ namespace Tic_Tac_Toe_OOP
             // btnTic2
             // 
             this.btnTic2.BackColor = System.Drawing.Color.Snow;
+            this.btnTic2.BackgroundImage = global::Tic_Tac_Toe_OOP.Properties.Resources._256039336_676785103291692_8251907035004046222_n;
+            this.btnTic2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnTic2.Font = new System.Drawing.Font("Arial", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTic2.Location = new System.Drawing.Point(104, 76);
             this.btnTic2.Name = "btnTic2";
@@ -68,6 +72,8 @@ namespace Tic_Tac_Toe_OOP
             // btnTic3
             // 
             this.btnTic3.BackColor = System.Drawing.Color.Snow;
+            this.btnTic3.BackgroundImage = global::Tic_Tac_Toe_OOP.Properties.Resources._256039336_676785103291692_8251907035004046222_n;
+            this.btnTic3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnTic3.Font = new System.Drawing.Font("Arial", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTic3.Location = new System.Drawing.Point(196, 76);
             this.btnTic3.Name = "btnTic3";
@@ -79,6 +85,8 @@ namespace Tic_Tac_Toe_OOP
             // btnTic4
             // 
             this.btnTic4.BackColor = System.Drawing.Color.Snow;
+            this.btnTic4.BackgroundImage = global::Tic_Tac_Toe_OOP.Properties.Resources._256039336_676785103291692_8251907035004046222_n;
+            this.btnTic4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnTic4.Font = new System.Drawing.Font("Arial", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTic4.Location = new System.Drawing.Point(12, 164);
             this.btnTic4.Name = "btnTic4";
@@ -90,6 +98,8 @@ namespace Tic_Tac_Toe_OOP
             // btnTic5
             // 
             this.btnTic5.BackColor = System.Drawing.Color.Snow;
+            this.btnTic5.BackgroundImage = global::Tic_Tac_Toe_OOP.Properties.Resources._256039336_676785103291692_8251907035004046222_n;
+            this.btnTic5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnTic5.Font = new System.Drawing.Font("Arial", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTic5.Location = new System.Drawing.Point(104, 164);
             this.btnTic5.Name = "btnTic5";
@@ -101,6 +111,8 @@ namespace Tic_Tac_Toe_OOP
             // btnTic6
             // 
             this.btnTic6.BackColor = System.Drawing.Color.Snow;
+            this.btnTic6.BackgroundImage = global::Tic_Tac_Toe_OOP.Properties.Resources._256039336_676785103291692_8251907035004046222_n;
+            this.btnTic6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnTic6.Font = new System.Drawing.Font("Arial", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTic6.Location = new System.Drawing.Point(196, 164);
             this.btnTic6.Name = "btnTic6";
@@ -112,7 +124,10 @@ namespace Tic_Tac_Toe_OOP
             // btnTic7
             // 
             this.btnTic7.BackColor = System.Drawing.Color.Snow;
+            this.btnTic7.BackgroundImage = global::Tic_Tac_Toe_OOP.Properties.Resources._256039336_676785103291692_8251907035004046222_n;
+            this.btnTic7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnTic7.Font = new System.Drawing.Font("Arial", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnTic7.ForeColor = System.Drawing.Color.Yellow;
             this.btnTic7.Location = new System.Drawing.Point(12, 252);
             this.btnTic7.Name = "btnTic7";
             this.btnTic7.Size = new System.Drawing.Size(86, 82);
@@ -123,6 +138,8 @@ namespace Tic_Tac_Toe_OOP
             // btnTic8
             // 
             this.btnTic8.BackColor = System.Drawing.Color.Snow;
+            this.btnTic8.BackgroundImage = global::Tic_Tac_Toe_OOP.Properties.Resources._256039336_676785103291692_8251907035004046222_n;
+            this.btnTic8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnTic8.Font = new System.Drawing.Font("Arial", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTic8.Location = new System.Drawing.Point(104, 252);
             this.btnTic8.Name = "btnTic8";
@@ -134,6 +151,8 @@ namespace Tic_Tac_Toe_OOP
             // btnTic9
             // 
             this.btnTic9.BackColor = System.Drawing.Color.Snow;
+            this.btnTic9.BackgroundImage = global::Tic_Tac_Toe_OOP.Properties.Resources._256039336_676785103291692_8251907035004046222_n;
+            this.btnTic9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnTic9.Font = new System.Drawing.Font("Arial", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTic9.Location = new System.Drawing.Point(196, 252);
             this.btnTic9.Name = "btnTic9";
@@ -144,10 +163,11 @@ namespace Tic_Tac_Toe_OOP
             // 
             // btnReset
             // 
-            this.btnReset.BackColor = System.Drawing.Color.RoyalBlue;
+            this.btnReset.BackColor = System.Drawing.Color.Black;
+            this.btnReset.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnReset.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnReset.ForeColor = System.Drawing.Color.Snow;
-            this.btnReset.Location = new System.Drawing.Point(197, 340);
+            this.btnReset.Location = new System.Drawing.Point(196, 340);
             this.btnReset.Name = "btnReset";
             this.btnReset.Size = new System.Drawing.Size(86, 30);
             this.btnReset.TabIndex = 9;
